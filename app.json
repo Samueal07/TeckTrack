@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "tecktrack",
+    "slug": "tecktrack",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "bbc1f319-b6ae-409a-b257-61cfab25c05a"
+      }
+    },
+    "android": {
+      "package": "com.samueal07.tecktrack"
+    }
+  }
+}
