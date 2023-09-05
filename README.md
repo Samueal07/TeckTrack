@@ -56,7 +56,7 @@ To get started with TechTrack, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/techtrack.git
+   git clone https://github.com/Samueal07/techtrack.git
 Navigate to the project directory:
 
 bash
