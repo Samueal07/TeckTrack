@@ -25,7 +25,6 @@ markdown
 Copy code
 # TechTrack - Find Developer Jobs Near You
 
-![TechTrack Logo](techtrack_logo.png)
 
 TechTrack is a React Native application that helps you find developer jobs near your location. It provides real-time job listings and allows you to explore job opportunities available in your area or any location you specify.
 
